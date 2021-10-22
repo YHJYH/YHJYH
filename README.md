@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin.
-- 👀 I’m interested in Application of ML & DL in physics, as well as Application of physical theory in algorithms & robotics.
-- 🌱 I’m currently learning Mathematical methods for Physics, and C++.
-- 💞️ I’m looking to collaborate on development of physics algorithms, e.g. ATLAS, Astronomomical programs.
+- 👀 I’m interested in Application of ML & DL in physics, Application of physical theory in algorithms & robotics, and statistical learning theory.
+- 🌱 I’m currently pursuing MSc Computational Statistics and Machine Learning at UCL.
+- 💞️ I’m passionate about studying new things.
 - 📫 How to reach me: ucaby75@ucl.ac.uk
 
 <!---
