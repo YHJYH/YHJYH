@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin.
-- 👀 I’m interested in Application of ML & DL in physics, Application of physical theory in algorithms & robotics, and statistical learning theory.
+- 👀 I’m interested in all aspects in ML, especially applications in CV and NLP. Currently I am taking my MSc Computational Statistics and Machine Learning at UCL.
 
 - 💞️ I’m passionate about studying new things.
 
