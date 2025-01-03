@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin.
-- 👀 I’m interested in all aspects in ML, especially applications in CV and NLP. Currently I am taking my MSc Computational Statistics and Machine Learning at UCL.
+- 👀 I’m interested in all aspects in ML, especially predictive modelling and NLP. Currently I am a full-time data scientist at a financial institute.
 
 - 💞️ I’m passionate about studying new things.
 
